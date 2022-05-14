@@ -30,8 +30,9 @@ The Repository for the solution proposed to Naftal's problem
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+     <a href="#the-challenge-to-be-solved">The challenge to be solved</a>
     <li>
-      <a href="#the-challenge-to-be-solved">The challenge to be solved</a>
+      <a href="#About-the-solution">About the solution</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -55,8 +56,9 @@ The Repository for the solution proposed to Naftal's problem
 <!-- ABOUT THE PROJECT -->
 ## The challenge to be solved
 Naftal is the well-known ,major fuel distributer in Algeria.
-During fuel shortages, the company often has to manage very long queue lines,hindering the personnel's ability to provide optimal customer service ,The company also offers services to corporate cients, often dealing payments in paper formats, In an effort for the company to digitize and improve its customer satisfaction, Naftal challenges the hackers participants in HackIT22 to offer an innovative mobile payment solution at its Service Stations for its corporate clients.
+During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service ,The company also offers services to corporate cients, often dealing payments in paper formats, In an effort for the company to digitize and improve its customer satisfaction, Naftal challenges the hackers participants in HackIT22 to offer an innovative mobile payment solution at its Service Stations for its corporate clients.
 
+## About the solution:
 
 ### Built With
 
@@ -72,32 +74,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Befor you begin you need to install nodejs and install gastbyJS try following the guideline in the [official documentation](https://www.gatsbyjs.com/docs/quick-start/) 
-
-### Installation
-
-1. Clone the repo and cd to it
-   ```sh
-    $ git clone git@github.com:GDGAlgiers/devfest21-website.git 
-    $ cd devfest21-website
-   ```
-2. Install Requirements
-   ```sh
-    $ yarn install 
-   ```
-
-<!-- USAGE EXAMPLES -->
-## Usage  
-Runing the Website 
-   ```sh
-    $ gatsby develop 
-   ```
-
-
-
-<!-- PROJECT STRUCTURE -->
-
-
+Befor you begin you need to install django and install reactjs 
 
 <!-- LICENSE -->
 ## License
@@ -111,16 +88,3 @@ GDG Algiers - [@gdg_algiers](https://twitter.com/gdg_algiers) - gdg.algiers@esi.
 
 Project Link: [https://github.com/GDGAlgiers/devfest21-website](https://github.com/GDGAlgiers/devfest21-website)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[contributors-url]: https://github.com/GDGAlgiers/devfest21-website/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[forks-url]: https://github.com/GDGAlgiers/devfest21-website/network/members
-[stars-shield]: https://img.shields.io/github/stars/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[stars-url]: https://github.com/GDGAlgiers/devfest21-website/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[issues-url]: https://github.com/GDGAlgiers/devfest21-website/issues
-[license-shield]: https://img.shields.io/github/license/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[license-url]: https://github.com/GDGAlgiers/devfest21-website/blob/master/LICENSE.txt
