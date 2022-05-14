@@ -54,11 +54,11 @@ DevFest Algiers 2021 is one of the Big events of GDG Algiers composed by a set o
 
 ## About the solution
 ### EA Model
-<a href="https://ibb.co/r2DghPT"><img src="https://i.ibb.co/xqxybvP/EA-model.png" alt="EA-model" border="0" /></a>
+<a href="https://ibb.co/VjCKGcG"><img src="https://i.ibb.co/r7pWhRh/EA-model.png" alt="EA-model" border="0" /></a>
 ### Built With
 
-* [GatsbyJs](https://www.gatsbyjs.com/)
-* [ThreeJs](https://threejs.org/)
+* [Django](djangoproject.com)
+* [ReactJs](https://reactjs.org/)
 * [TailwindCss](https://tailwindcss.com/)
 
 
@@ -69,32 +69,24 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Befor you begin you need to install nodejs and install gastbyJS try following the guideline in the [official documentation](https://www.gatsbyjs.com/docs/quick-start/) 
+Befor you begin you need to install nodejs and install django
 
 ### Installation
 
 1. Clone the repo and cd to it
    ```sh
-    $ git clone git@github.com:GDGAlgiers/devfest21-website.git 
-    $ cd devfest21-website
+    $ git clone https://github.com/CHENNI-Nidhaleddine/hack--t-2k22-MadShell.git 
+    $ cd front-end
    ```
-2. Install Requirements
+2. Install Requirements for frontend
    ```sh
     $ yarn install 
    ```
-
-<!-- USAGE EXAMPLES -->
-## Usage  
-Runing the Website 
+3. for Backend
    ```sh
-    $ gatsby develop 
-   ```
-
-
-
-<!-- PROJECT STRUCTURE -->
-
-
+    $ cd back-end
+    $ yarn install 
+   ````
 
 <!-- LICENSE -->
 ## License
