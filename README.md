@@ -54,9 +54,12 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
 <!-- ABOUT THE PROJECT -->
 ## About The Problem
 Naftal is the well-known , major fuel distrubutor in Algeria.<br/>
-During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service , The company also offers services to corporate clients, often dealing payments in paper formats , In an effort from the company to digitize and improve its offer an innovative mobile payment solution at its Service stations fot its corporate clients
+During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service , The company also offers services to corporate clients, often dealing payments in paper formats , In an effort from the company to digitize and improve its offer an innovative mobile payment solution at its Service stations for its corporate clients
 
 ## About the solution
+After a research about Naftal's station workflow and revaluation of the processes  we designed a solution that enables the station to get rid of papers when dealing with corporates so it becomes as follows:
+We have built a web dashboard that allows corporates to create their own dashboard, adding their employees and 
+
 ### EA Model
 <a href="https://ibb.co/VjCKGcG"><img src="https://i.ibb.co/r7pWhRh/EA-model.png" alt="EA-model" border="0" /></a>
 ### Built With
