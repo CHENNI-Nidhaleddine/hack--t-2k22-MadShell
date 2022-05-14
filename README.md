@@ -53,14 +53,13 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
 
 <!-- ABOUT THE PROJECT -->
 ## About The Problem
-Naftal is the well-known , major fuel distrubutor in Algeria.<br/>
-During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service , The company also offers services to corporate clients, often dealing payments in paper formats , In an effort from the company to digitize and improve its offer an innovative mobile payment solution at its Service stations for its corporate clients
+Naftal is the well-known, major fuel distrubutor in Algeria.<br/>
+During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service , The company also offers services to corporate clients, often dealing payments in paper formats , In an effort from the company to digitize and improve its offer an innovative mobile payment solution at its Service stations for its corporate clients.
 
 ## About the solution
 
 A B2B payment solution for Naftal and its associated companies, which aims to eliminate all paperwork and make the payment operation significantly faster.
 
-##
 
 ### EA Model
 <a href="https://ibb.co/VjCKGcG"><img src="https://i.ibb.co/r7pWhRh/EA-model.png" alt="EA-model" border="0" /></a>
@@ -69,7 +68,7 @@ A B2B payment solution for Naftal and its associated companies, which aims to el
 * [Django](djangoproject.com)
 * [ReactJs](https://reactjs.org/)
 * [TailwindCss](https://tailwindcss.com/)
-
+* [Flutter](https://flutter.dev/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
