@@ -14,7 +14,7 @@
 This Repository is for the web solution proposed by MadShell Team during the HackIT22
     <br />
     <br />
-    <a href="http://devfest21.gdgalgiers.com/">View Demo</a>
+    <a href="http://devfest21.gdgalgiers.com/">View UI</a>
     ·
     <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a>
     ·
@@ -49,10 +49,12 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Problem
 DevFest Algiers 2021 is one of the Big events of GDG Algiers composed by a set of activities: talks, workshops and mainly a Hackathon, this project showcase some of the important stuff of the event. 
 
-
+## About the solution
+### EA Model
+<a href="https://ibb.co/r2DghPT"><img src="https://i.ibb.co/xqxybvP/EA-model.png" alt="EA-model" border="0" /></a>
 ### Built With
 
 * [GatsbyJs](https://www.gatsbyjs.com/)
