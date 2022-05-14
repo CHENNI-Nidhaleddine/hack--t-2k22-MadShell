@@ -9,20 +9,20 @@
 <br />
 <p align="center">
   <a href="https://github.com/GDGAlgiers/devfest21-website">
-    <img src="https://ibb.co/kB5c0xf" alt="devfest" >
+    <img src="https://ibb.co/kB5c0xf" alt="naftal" >
   </a>
 
-  <h3 align="center">DevFest Algiers 2021 Website</h3>
+  <h3 align="center">Naftal Track </h3>
 
   <p align="center">
-The Repository for GDG Algiers DevFest 2021 Website
+The Repository for the solution proposed to Naftal's problem
     <br />
     <br />
-    <a href="http://devfest21.gdgalgiers.com/">View Demo</a>
+<!--     <a href="http://devfest21.gdgalgiers.com/">View Demo</a> -->
     ·
-    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a>
+<!--     <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a> -->
     ·
-    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a>
+<!--     <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -31,7 +31,7 @@ The Repository for GDG Algiers DevFest 2021 Website
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#the-challenge-to-be-solved">The challenge to be solved</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -53,14 +53,15 @@ The Repository for GDG Algiers DevFest 2021 Website
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-DevFest Algiers 2021 is one of the Big events of GDG Algiers composed by a set of activities: talks, workshops and mainly a Hackathon, this project showcase some of the important stuff of the event. 
+## The challenge to be solved
+Naftal is the well-known ,major fuel distributer in Algeria.
+During fuel shortages, the company often has to manage very long queue lines,hindering the personnel's ability to provide optimal customer service ,The company also offers services to corporate cients, often dealing payments in paper formats, In an effort for the company to digitize and improve its customer satisfaction, Naftal challenges the hackers participants in HackIT22 to offer an innovative mobile payment solution at its Service Stations for its corporate clients.
 
 
 ### Built With
 
-* [GatsbyJs](https://www.gatsbyjs.com/)
-* [ThreeJs](https://threejs.org/)
+* [Django](https://www.djangoproject.com/)
+* [Reactjs](https://fr.reactjs.org/)
 * [TailwindCss](https://tailwindcss.com/)
 
 
