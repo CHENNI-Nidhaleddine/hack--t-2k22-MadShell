@@ -14,11 +14,11 @@
 This Repository is for the web solution proposed by MadShell Team during the HackIT22
     <br />
     <br />
-    <a href="http://devfest21.gdgalgiers.com/">View UI</a>
+<!--     <a href="http://devfest21.gdgalgiers.com/">View UI</a>
     ·
     <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a>
+    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a> -->
   </p>
 </p>
 
