@@ -53,7 +53,8 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
 
 <!-- ABOUT THE PROJECT -->
 ## About The Problem
-DevFest Algiers 2021 is one of the Big events of GDG Algiers composed by a set of activities: talks, workshops and mainly a Hackathon, this project showcase some of the important stuff of the event. 
+Naftal is the well-known , major fuel distrubutor in Algeria.<br/>
+During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service , The company also offers services to corporate clients, often dealing payments in paper formats , In an effort from the company to digitize and improve its offer an innovative mobile payment solution at its Service stations fot its corporate clients
 
 ## About the solution
 ### EA Model
