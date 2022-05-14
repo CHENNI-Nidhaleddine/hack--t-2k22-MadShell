@@ -11,7 +11,7 @@
   <h3 align="center">Naftal challenge sollution</h3>
 
   <p align="center">
-The Repository for GDG Algiers DevFest 2021 Website
+This Repository is for the web solution proposed by MadShell Team during the HackIT22
     <br />
     <br />
     <a href="http://devfest21.gdgalgiers.com/">View Demo</a>
