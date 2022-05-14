@@ -30,7 +30,7 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
       <a href="#about-the-problem">About The Problem</a>
    </li>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#About-the-solution">About the solution</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
