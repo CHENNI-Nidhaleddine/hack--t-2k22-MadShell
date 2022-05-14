@@ -1,4 +1,4 @@
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -7,9 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<a href="https://ibb.co/kB5c0xf"><img src="https://i.ibb.co/3d4hW7q/logo.png" alt="logo" border="0" /></a>
-
-  <h3 align="center">DevFest Algiers 2021 Website</h3>
+<a href="https://ibb.co/kB5c0xf"><img src="https://i.ibb.co/3d4hW7q/logo.png" alt="logo" border="0" width="40px" height="40px" /></a>
+  <h3 align="center">Naftal challenge sollution</h3>
 
   <p align="center">
 The Repository for GDG Algiers DevFest 2021 Website
@@ -120,4 +119,3 @@ Project Link: [https://github.com/GDGAlgiers/devfest21-website](https://github.c
 [issues-url]: https://github.com/GDGAlgiers/devfest21-website/issues
 [license-shield]: https://img.shields.io/github/license/GDGAlgiers/devfest21-website.svg?style=for-the-badge
 [license-url]: https://github.com/GDGAlgiers/devfest21-website/blob/master/LICENSE.txt
- -->
