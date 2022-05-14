@@ -26,6 +26,9 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+   <li>
+      <a href="#about-the-problem">About The Problem</a>
+   </li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -40,9 +43,9 @@ This Repository is for the web solution proposed by MadShell Team during the Hac
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+ 
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+
   </ol>
 </details>
 
@@ -69,7 +72,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Befor you begin you need to install nodejs and install django
+Before you begin you need to install nodejs and install django
 
 ### Installation
 
@@ -93,23 +96,4 @@ Befor you begin you need to install nodejs and install django
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-## Contact
 
-GDG Algiers - [@gdg_algiers](https://twitter.com/gdg_algiers) - gdg.algiers@esi.dz
-
-Project Link: [https://github.com/GDGAlgiers/devfest21-website](https://github.com/GDGAlgiers/devfest21-website)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[contributors-url]: https://github.com/GDGAlgiers/devfest21-website/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[forks-url]: https://github.com/GDGAlgiers/devfest21-website/network/members
-[stars-shield]: https://img.shields.io/github/stars/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[stars-url]: https://github.com/GDGAlgiers/devfest21-website/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[issues-url]: https://github.com/GDGAlgiers/devfest21-website/issues
-[license-shield]: https://img.shields.io/github/license/GDGAlgiers/devfest21-website.svg?style=for-the-badge
-[license-url]: https://github.com/GDGAlgiers/devfest21-website/blob/master/LICENSE.txt
