@@ -1,4 +1,3 @@
-# hack--t-2k22-MadShell
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -9,20 +8,20 @@
 <br />
 <p align="center">
   <a href="https://github.com/GDGAlgiers/devfest21-website">
-    <img src="https://ibb.co/kB5c0xf" alt="naftal" >
+    <img src="static/poster.png" alt="devfest" >
   </a>
 
-  <h3 align="center">Naftal Track </h3>
+  <h3 align="center">DevFest Algiers 2021 Website</h3>
 
   <p align="center">
-The Repository for the solution proposed to Naftal's problem
+The Repository for GDG Algiers DevFest 2021 Website
     <br />
     <br />
-<!--     <a href="http://devfest21.gdgalgiers.com/">View Demo</a> -->
+    <a href="http://devfest21.gdgalgiers.com/">View Demo</a>
     ·
-<!--     <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a> -->
+    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a>
     ·
-<!--     <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a> -->
+    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a>
   </p>
 </p>
 
@@ -30,9 +29,8 @@ The Repository for the solution proposed to Naftal's problem
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-     <a href="#the-challenge-to-be-solved">The challenge to be solved</a>
     <li>
-      <a href="#About-the-solution">About the solution</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -54,16 +52,14 @@ The Repository for the solution proposed to Naftal's problem
 
 
 <!-- ABOUT THE PROJECT -->
-## The challenge to be solved
-Naftal is the well-known ,major fuel distributer in Algeria.
-During fuel shortages, the company often has to manage very long queue lines, hindering the personnel's ability to provide optimal customer service ,The company also offers services to corporate cients, often dealing payments in paper formats, In an effort for the company to digitize and improve its customer satisfaction, Naftal challenges the hackers participants in HackIT22 to offer an innovative mobile payment solution at its Service Stations for its corporate clients.
+## About The Project
+DevFest Algiers 2021 is one of the Big events of GDG Algiers composed by a set of activities: talks, workshops and mainly a Hackathon, this project showcase some of the important stuff of the event. 
 
-## About the solution:
 
 ### Built With
 
-* [Django](https://www.djangoproject.com/)
-* [Reactjs](https://fr.reactjs.org/)
+* [GatsbyJs](https://www.gatsbyjs.com/)
+* [ThreeJs](https://threejs.org/)
 * [TailwindCss](https://tailwindcss.com/)
 
 
@@ -74,7 +70,32 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Befor you begin you need to install django and install reactjs 
+Befor you begin you need to install nodejs and install gastbyJS try following the guideline in the [official documentation](https://www.gatsbyjs.com/docs/quick-start/) 
+
+### Installation
+
+1. Clone the repo and cd to it
+   ```sh
+    $ git clone git@github.com:GDGAlgiers/devfest21-website.git 
+    $ cd devfest21-website
+   ```
+2. Install Requirements
+   ```sh
+    $ yarn install 
+   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage  
+Runing the Website 
+   ```sh
+    $ gatsby develop 
+   ```
+
+
+
+<!-- PROJECT STRUCTURE -->
+
+
 
 <!-- LICENSE -->
 ## License
@@ -88,3 +109,16 @@ GDG Algiers - [@gdg_algiers](https://twitter.com/gdg_algiers) - gdg.algiers@esi.
 
 Project Link: [https://github.com/GDGAlgiers/devfest21-website](https://github.com/GDGAlgiers/devfest21-website)
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/GDGAlgiers/devfest21-website.svg?style=for-the-badge
+[contributors-url]: https://github.com/GDGAlgiers/devfest21-website/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GDGAlgiers/devfest21-website.svg?style=for-the-badge
+[forks-url]: https://github.com/GDGAlgiers/devfest21-website/network/members
+[stars-shield]: https://img.shields.io/github/stars/GDGAlgiers/devfest21-website.svg?style=for-the-badge
+[stars-url]: https://github.com/GDGAlgiers/devfest21-website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GDGAlgiers/devfest21-website.svg?style=for-the-badge
+[issues-url]: https://github.com/GDGAlgiers/devfest21-website/issues
+[license-shield]: https://img.shields.io/github/license/GDGAlgiers/devfest21-website.svg?style=for-the-badge
+[license-url]: https://github.com/GDGAlgiers/devfest21-website/blob/master/LICENSE.txt
