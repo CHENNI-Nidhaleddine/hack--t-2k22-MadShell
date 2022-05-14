@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<a href="https://ibb.co/kB5c0xf"><img src="https://i.ibb.co/3d4hW7q/logo.png" alt="logo" border="0" width="40px" height="40px" /></a>
+<a href="https://ibb.co/kB5c0xf"><img src="https://i.ibb.co/3d4hW7q/logo.png" alt="logo" border="0" width="100px" height="80px" /></a>
   <h3 align="center">Naftal challenge sollution</h3>
 
   <p align="center">
