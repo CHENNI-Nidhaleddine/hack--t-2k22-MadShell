@@ -8,17 +8,12 @@
 <br />
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5GN9Ctj/logo.png" alt="logo" border="0"></a>
-<h3 align="center">Eldery Fall Detection</h3>
-
+<h3 align="center">ELDERY FALL DETECTION MODEL</h3>
   <p align="center">
-This Repository is for the web solution proposed by MadShell Team during the HackIT22
+This Repository is for the model proposed by Tech Phantoms Team during the devfest22
     <br />
     <br />
-<!--     <a href="http://devfest21.gdgalgiers.com/">View UI</a>
-    ·
-    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/GDGAlgiers/devfest21-website/issues">Request Feature</a> -->
+
   </p>
 </p>
 
