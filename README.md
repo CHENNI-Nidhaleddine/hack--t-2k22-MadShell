@@ -7,13 +7,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5GN9Ctj/logo.png" alt="logo" border="0"></a>
-<h3 align="center">ELDERY FALL DETECTION MODEL</h3>
-  <p align="center">
-This Repository is for the model proposed by Tech Phantoms Team during the devfest22
-    <br />
-    <br />
+<a href="https://ibb.co/kB5c0xf"><img src="https://i.ibb.co/3d4hW7q/logo.png" alt="logo" border="0" width="100px" height="80px" /></a>
+  <h3 align="center">Naftal challenge sollution</h3>
 
+  <p align="center">
+This Repository is for the web solution proposed by MadShell Team during the HackIT22
+    <br />
+    <br />
   </p>
 </p>
 
